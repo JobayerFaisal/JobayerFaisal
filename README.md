@@ -22,7 +22,7 @@ I am a passionate software developer with a keen interest in open-source project
 - Blockchain and decentralized applications
 
 ### 📫 How to Reach Me
-- **Email:** [your.email@example.com](mailto:jobayerfaisal.fahim@gmail.com)
+- **Email:** [jobayerfaisal.fahim@gmail.com](mailto:jobayerfaisal.fahim@gmail.com)
 - **LinkedIn:** [linkedin.com/in/JobayerFaisal](https://linkedin.com/in/JobayerFaisal)
 - **GitHub:** [github.com/JobayerFaisal](https://github.com/JobayerFaisal)
 
