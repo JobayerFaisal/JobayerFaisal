@@ -23,7 +23,7 @@ I am a passionate software developer with a keen interest in open-source project
 
 ### 📫 How to Reach Me
 - **Email:** [jobayerfaisal.fahim@gmail.com](mailto:jobayerfaisal.fahim@gmail.com)
-- **LinkedIn:** [(https://www.linkedin.com/in/jobayer-faisal-fahim-02b868252/)](https://www.linkedin.com/in/jobayer-faisal-fahim-02b868252/)
+- **LinkedIn:** [https://www.linkedin.com/in/jobayer-faisal-fahim-02b868252/](https://www.linkedin.com/in/jobayer-faisal-fahim-02b868252/)
 - **GitHub:** [github.com/JobayerFaisal](https://github.com/JobayerFaisal)
 
 ### ⚡ Fun Fact
