@@ -39,9 +39,9 @@ I love playing chess and often participate in online chess tournaments. ♟️
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JobayerFaisal&layout=compact&theme=radical)
 
 ### 🗂️ Highlight Projects
-- [**Project Name**](https://github.com/JobayerFaisal/Blood_Donation_Apex_Oracle)
+- [**Emargency Blood Donation System**](https://github.com/JobayerFaisal/Blood_Donation_Apex_Oracle)
   - The "Emergency Blood Donation System", built on "Oracle APEX", connects recipients with nearby blood donors quickly. Users register as donors or recipients, search based on blood type and location, and receive real-time notifications, ensuring timely assistance and saving lives in emergencies.
-- [**Another Project**](https://github.com/JobayerFaisal/Chat_Application)
+- [**Chat Application**](https://github.com/JobayerFaisal/Chat_Application)
   - A brief description of what this project is about.
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just have a chat. 😊
