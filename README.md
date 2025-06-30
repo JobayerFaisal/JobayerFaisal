@@ -1,13 +1,13 @@
-# Hi there, I'm Jobayer Faisal 👋
+# Hi there, I'm Jobayer Faisal Fahim👋
 
 ### 👨‍💻 About Me
 I am a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving complex problems and collaborating with others to create innovative solutions.
 
 ### 🔧 Technologies & Tools
 - **Languages:** C, C++, Python, Java, JavaScript
-- **Frameworks:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** Oracle, MySQL, PostgreSQL, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Frameworks:** React, Node.js, Express, Django, 
+- **Databases:** Oracle, MySQL, MongoDB
+- **DevOps Tools:** Docker,  GitHub Actions
 - **Cloud Providers:** AWS, Azure, Google Cloud Platform
 
 ### 💼 Professional Experience
