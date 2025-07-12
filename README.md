@@ -4,10 +4,10 @@
 I am a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving complex problems and collaborating with others to create innovative solutions.
 
 ### 🔧 Technologies & Tools
-- **Languages:** C, C++, Python, Java, JavaScript
+- **Languages:** C, C++, Python, Java
 - **Frameworks:** React, Node.js, Express, Django, 
-- **Databases:** Oracle, MySQL, MongoDB
-- **DevOps Tools:** Docker,  GitHub Actions
+- **Databases:** Oracle, MySQL
+- **DevOps Tools:**   GitHub Actions
 - **Cloud Providers:** AWS, Azure, Google Cloud Platform
 
 ### 💼 Professional Experience
